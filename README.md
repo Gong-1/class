@@ -1,2 +1,0 @@
-# Gitѧϰ
-## git push
